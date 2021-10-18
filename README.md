@@ -1,6 +1,7 @@
 # TIRF_2CH_nonratio.R
 
 `TIRF_2CH_nonratio.R` is an R script for calculating $\Delta$ F/F0 for each of the two channels exported from Nikon NIS-Elements Advanced Research software.
+The script is available on GitHub: https://github.com/shucez/eLACCO_manuscript_TIRF_deltaF_F0
 
 ## Prerequisites
 
